@@ -1,0 +1,13 @@
+#jcf * { padding:0; margin:0; font-size: 18px; box-sizing: border-box; font-family:"Helvetica"; }
+ #jcf { max-width:500px; }
+ #jcf .error { background-color:rgba(255,184,185,0.80)!important; border:solid 1px #D8000C!important; }
+ #jcf .error, #jcf .error::placeholder { color:#D8000C!important; }
+ #jcf .success { background-color:rgba(193,255,198,0.80)!important; border:solid 1px #044406!important; }
+ #jcf .success, #jcf .success::placeholder { color:#044406; }
+ #jcf .msg { display:none; padding:10px; margin-bottom:5px!important; width:99%; border-radius: 3px; }
+ #jcf .contact_message { height:200px; }
+ #jcf #send_message { text-transform:uppercase; cursor:pointer; }
+ #jcf button object { margin: -18px -5px!important; width:50px!important; }
+ #jcf select, #jcf input, #jcf textarea, #jcf button { outline:none; background:none; border:solid 1px #505050; transition: box-shadow .2s, width .2s; width:99%; max-width:99%; min-width: 99%; appearance:none; padding:10px!important; margin:0 0 5px!important; border-radius:3px;background:rgba(255,255,255,0.8); border:solid 1px #505050; }
+ #jcf select:focus, #jcf input:focus, #jcf textarea:focus, #jcf button:hover { border:solid 1px #0066FF; box-shadow:rgba(0,0,0,0.3) 0px 2px 4px; width:100%; }
+ 
