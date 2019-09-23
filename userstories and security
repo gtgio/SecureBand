@@ -1,10 +1,10 @@
-# User stories
+# User stories and security
 
 ###### All users
 | # | As ... | I want ... | So I ... | Security | MoSCoW | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| U0001 | User | to listen to podcasts | I can listen to the podcasts | None | Must have | TODO |
-| U0002 | User | to submit an email address | get notifications for any new uploaded podcasts | Protect against SQL-injection, valid email | Must have | TODO |
+| U0001 | User | to listen to music | I can listen to the music | None | Must have | TODO |
+| U0002 | User | to learn new things | get a better knowlegde | None | Must have | TODO |
 | U0003 | User | a list of all podcasts | listen to previous podcasts | None | Must have | TODO |
 | U0004 | User | to have controls for the audio player | can pauze the podcasts, change volume, etc | None | Must have | TODO |
 | U0005 | User | to fill in a contact form | can contact the podcast owners | Protect against SQL-injection & other forms of penetration, valid email | Must have | TODO |
