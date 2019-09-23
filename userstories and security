@@ -22,3 +22,9 @@
 | B0003 | Admin | to add a list of sponsors | show which companies have sponsored the podcast | SQL-injection | Must have | TODO |
 | B0004 | Admin | to show a list of donators | show who supported the podcast | Prevent XSS | Must have | TODO |
 | B0005 | Admin | to change the content of the website | keep the website up to date & add new content | SQL-injection & XSS | Must have | TODO |
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
